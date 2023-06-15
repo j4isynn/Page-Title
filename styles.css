@@ -1,0 +1,16 @@
+body {
+    background-color: purple; 
+}
+
+h2 { 
+    color: white; 
+} 
+    li {
+        color: gray;
+}
+.season { 
+    font-family: Arial;
+}
+#summer { 
+    color: pink; 
+}
